@@ -1,0 +1,11 @@
+name: SoulPlots
+main: me.laekh.soulplots.SoulPlots
+version: 1.0
+author: Laekh
+depend: [WorldEdit]
+
+commands:
+ soulplots:
+  description: Soulplots commands
+  usage: /soulplots (command) (args)
+  aliases: [splots, plots]
